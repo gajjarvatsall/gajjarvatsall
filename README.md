@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 ### I'm Vatsal Gajjar, a passionate developer 🚀 on an exciting journey through the realms of technology. With 6 months of experience in Flutter development and a strong foundation in Python 🐍, I've already made my mark in the coding world 🌍.
 
@@ -6,6 +6,6 @@
 
 ## Let's Connect
 
-##### Join me on this exciting tech adventure! If you're looking for someone who can code, edit videos, and bring a smile to your face 😊, feel free to reach out.
+### Join me on this exciting tech adventure! If you're looking for someone who can code, edit videos, and bring a smile to your face 😊, feel free to reach out.
 
-##### Connect with me on [LinkedIn](https://www.linkedin.com/in/gajjarvatsall/) and let's collaborate on something extraordinary!
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/gajjarvatsall/) and let's collaborate on something extraordinary!
