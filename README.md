@@ -22,21 +22,7 @@ Welcome to my GitHub profile! I'm **Vatsal Gajjar**, a pre-final year student at
 Here are some of the technologies I work with:
 
 ### Programming Languages and Tools
-- **C/C++** ![C/C++ Logo](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-- **Python** ![Python Logo](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white)
-- **Flutter** ![Flutter Logo](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-- **Dart** ![Dart Logo](https://img.shields.io/badge/-Dart-00B5E2?logo=dart&logoColor=white)
-- **React.js** ![React Logo](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-- **Firebase** ![Firebase Logo](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-- **Supabase** ![Supabase Logo](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-- **Appwrite** ![Appwrite Logo](https://img.shields.io/badge/-Appwrite-FF4B2B?logo=appwrite&logoColor=white)
-- **HTML** ![HTML Logo](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-- **CSS** ![CSS Logo](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-- **JavaScript** ![JavaScript Logo](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Bootstrap** ![Bootstrap Logo](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-- **Tailwind CSS** ![Tailwind CSS Logo](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
-- **Git** ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- **GitHub** ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- ![C/C++ Logo](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python Logo](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white) ![Flutter Logo](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart Logo](https://img.shields.io/badge/-Dart-00B5E2?logo=dart&logoColor=white) ![React Logo](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase Logo](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Supabase Logo](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Appwrite Logo](https://img.shields.io/badge/-Appwrite-FF4B2B?logo=appwrite&logoColor=white) ![HTML Logo](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS Logo](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript Logo](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap Logo](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![Tailwind CSS Logo](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ## 🌱 Let’s Connect
 
