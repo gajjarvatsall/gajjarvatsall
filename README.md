@@ -1,31 +1,67 @@
-# Hi there! 👋
+# Hi there! 👋  
 
-Welcome to my GitHub profile! I'm **Vatsal Gajjar**, a pre-final year student at Nirma University with a passion for blending technology and creativity. When I’m not diving into code, you’ll find me editing videos or cracking tech jokes—yes, I like to keep things fun!
+Welcome to my GitHub profile! I'm **Vatsal Gajjar**, a pre-final year student at Nirma University, exploring the exciting world of DevOps, cloud computing, and app development. My passion lies in building scalable, efficient, and innovative solutions that merge automation, development, and creativity.  
 
-## 🚀 What I Do
+---
 
-- **Flutter & Python Enthusiast:** I build innovative apps and solutions using Flutter and Python. From mobile applications to powerful backends, I love creating tech that simplifies and enhances life.
-- **Video Editing Aficionado:** Combining tech with creativity, I craft engaging stories through video editing. It's all about telling compelling narratives with a touch of flair.
+## 🚀 What I Do  
 
-## 🌟 Experience Highlights
+- **DevOps Enthusiast:**  
+  I’m diving deep into the world of DevOps, automating processes, and mastering tools like Docker, Kubernetes, Terraform, AWS, Jenkins, and Ansible to build efficient, cloud-native applications.  
+- **Flutter & Python Developer:**  
+  I craft robust mobile and backend applications with Flutter and Python, focusing on seamless functionality and great user experiences.  
+- **Cloud Explorer:**  
+  Learning and implementing cloud solutions on AWS to design scalable, reliable, and secure architectures.  
+- **Creative Technologist:**  
+  I also enjoy video editing, blending storytelling with technology to create engaging content.  
 
-- **Flutter Development at 7Span Internet Pvt. Ltd.:** I spent 6 months working on Flutter development, creating apps with Flutter, Dart, Firebase, Supabase, and Appwrite. This role allowed me to deepen my expertise and deliver impactful solutions.
-- **Google Developer Groups Ahmedabad Social Media Team:** Contributed to Google Devfest Ahmedabad in 2022 and 2023, enhancing my skills and connecting with a vibrant tech community.
-- **Google Cloud Community Day Gandhinagar 2024:** Volunteered and expanded my network within the tech community.
+---
 
-## 🏆 Hackathon Experience
+## 🌟 Experience Highlights  
 
-- **HackNUthon Hell at Nirma University:** Developed an AI Ecommerce chatbot, showcasing my ability to create innovative solutions under time constraints and collaborate effectively with a team.
+- **DevOps Journey:**  
+  - Gaining hands-on experience with CI/CD pipelines using Jenkins, Docker, and GitHub Actions.  
+  - Deploying applications on Kubernetes clusters and managing infrastructure with Terraform.  
+  - Monitoring and optimizing cloud services using AWS CloudWatch and CloudFormation.  
 
-## 💡 Skills
+- **Flutter Development Internship at 7Span Internet Pvt. Ltd.:**  
+  - Developed mobile apps using Flutter, Firebase, and Supabase.  
+  - Enhanced real-time app performance and gained expertise in backend integrations.  
 
-Here are some of the technologies I work with:
+- **Google Developer Groups Ahmedabad Social Media Team:**  
+  - Volunteered for **Google Devfest Ahmedabad (2022 & 2023)** and **Google Cloud Community Day Gandhinagar 2024**, where I contributed to event promotion and technical discussions.  
 
-### Programming Languages and Tools
-- ![C/C++ Logo](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python Logo](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white) ![Flutter Logo](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart Logo](https://img.shields.io/badge/-Dart-00B5E2?logo=dart&logoColor=white) ![React Logo](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase Logo](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Supabase Logo](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Appwrite Logo](https://img.shields.io/badge/-Appwrite-FF4B2B?logo=appwrite&logoColor=white) ![HTML Logo](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS Logo](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript Logo](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap Logo](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![Tailwind CSS Logo](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Git Logo](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- **Hackathon Success:**  
+  - Built an **AI Ecommerce Chatbot** at HackNUthon Hell, showcasing my skills in frontend development and teamwork under pressure.  
 
-## 🌱 Let’s Connect
+---
 
-I’m always open to new ideas and collaborations. Whether you’re looking to discuss tech trends, share creative projects, or just chat about the latest in Flutter and Python, feel free to reach out!
+## 💡 Skills  
 
-Let’s create something amazing together! 🚀
+### DevOps & Cloud  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
+
+### App Development  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
+
+### Web Development  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats  
+
+![Vatsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajjarvatsall&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gajjarvatsall&layout=compact&theme=radical)  
+
+---
+
+## 🌱 Let’s Connect  
+
+I’m always looking to collaborate on innovative projects or discuss the latest trends in DevOps, cloud computing, and app development. Let’s connect and build something amazing! 🚀  
