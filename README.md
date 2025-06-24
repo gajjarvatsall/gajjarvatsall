@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-Welcome to my GitHub profile! I'm **Vatsal Gajjar**, a pre-final year student at Nirma University, exploring the exciting world of DevOps, cloud computing, and app development. My passion lies in building scalable, efficient, and innovative solutions that merge automation, development, and creativity.  
+Welcome to my GitHub profile! I'm **Vatsal Gajjar**, a final year student at Nirma University, exploring the exciting world of DevOps, cloud computing, and app development. My passion lies in building scalable, efficient, and innovative solutions that merge automation, development, and creativity.  
 
 ---
 
